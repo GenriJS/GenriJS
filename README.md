@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Genrikh 👋
+<!--![](assets/hello.gif)-->
+
+<div id="header" align="center">
+  <img src="assets/hello.gif" width="100%" height="" />
+</div>
 
 <!--
 **GenriJS/GenriJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
